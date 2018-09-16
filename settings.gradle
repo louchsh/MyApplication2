@@ -1,0 +1,1 @@
+include ':modTest1', ':myapplication', ':modTest2'
